@@ -139,3 +139,5 @@ const PokemonDetailModal = ({ pokemon, onClose }) => {
 };
 
 export default PokemonDetailModal;
+
+// End file
